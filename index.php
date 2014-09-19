@@ -1,5 +1,7 @@
+<html>
 <head>
 	<title>Emily Tang</title>
+	<link rel="stylesheet" type="text/css" href="p1.css">
 </head>
 
 <body>
@@ -25,3 +27,4 @@
 		<p>I'm currently on a medical leave from MIT and taking some classes to get back on track for readmission.</p>
 	</template>
 </body>
+</html>
