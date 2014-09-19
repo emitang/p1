@@ -1,0 +1,27 @@
+#sidebar {
+  background: #f7d128;
+  position: fixed;
+  width: 20%;
+  overflow-y: auto;
+  z-index: 1000;
+  transition: all 0.4s ease 0s;
+  min-width: 180px;
+  font-family:'Conv_Langdon',Sans-Serif;
+}
+
+
+#plist {
+	list-style: none;
+}
+
+#page-content-wrapper {
+	float:right;
+	z-index:-1;
+  width: 80%;
+  text-align: right;
+  padding-left: 0px;
+  position: absolute;
+  padding-right:0;
+  margin-right: 17%;
+  height: 60%;
+}
