@@ -4,7 +4,10 @@
 	<link rel="stylesheet" type="text/css" href="p1.css">
 </head>
 
-<body>
+<h1>Emily Tang's p1</h1>
+<img src = "selfpic.jpg" alt="picture of me">
+
+<!-- <body>
 	<template id="sidebar">
 		<img src = "selfpic.jpg" alt="picture of me">
 		<h1>Emily Tang's Portfolio</h1>
@@ -26,5 +29,5 @@
 		<h1>Other</h1>
 		<p>I'm currently on a medical leave from MIT and taking some classes to get back on track for readmission.</p>
 	</template>
-</body>
+</body> -->
 </html>
