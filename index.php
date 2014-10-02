@@ -3,7 +3,79 @@
 <head>
 	<meta charset='utf-8'>
 	<title>Emily Tang's Portfolio</title>
-	<link rel="stylesheet" type="text/css" href="p1.css">
+	<style>
+		body {
+			margin: 0; 
+			background: #E6E6EE;
+		}
+
+		#sidebar { 
+			height: 100%;
+			position: fixed;
+			width: 20%;
+			overflow-y: auto;
+			z-index: 1000;
+			min-width: 180px;
+			font-family: 'Source Sans Pro', sans-serif;
+			background: #C1C1D6; 
+			box-shadow: 3px 0px 3px #888888;
+		}
+
+		#titulo {
+			margin-left: 8%; 
+			font-size: 20px;
+			font-family: 'Roboto', sans-serif;
+			color: #454545;
+		}
+
+		.plist {
+			font-size: 17px;
+		}
+
+		img {
+			max-width: 90%; 
+			margin-left: 5%; 
+			margin-top: 10px;
+		}
+
+		#pbar {
+			list-style: none;
+			color: #454545;
+		}
+
+		a {
+			text-decoration: none; 
+			color: #FFFFFF;
+		}
+
+		a:active {
+			color: #A6A6A6;
+		}
+
+		.contenthead {
+			margin-right: 5%;
+		}
+
+		.contentp {
+			margin-right: 3%; 
+			margin-left: 3%;
+		}
+
+		#contentbottom {
+			margin-bottom: 5%;
+		}
+
+		#page-content {
+			float: right;
+			z-index: -1;
+		  	max-width: 80%;
+		  	text-align: right;
+		  	padding-right: 0;
+			height: 100%;
+			font-family: 'Source Sans Pro', sans-serif;
+			color: #454545;
+		}
+	</style>
 	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Roboto:400,400italic' rel='stylesheet' type='text/css'>
 </head>
