@@ -8,7 +8,7 @@ The first webpage for DWA, with placeholders for future projects, and a brief de
 # Demo
 No demo
 
-# Details for teaching team
+# Details for Teaching Team
 Nothing further!
 
 # Outside Code
