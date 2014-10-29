@@ -86,7 +86,7 @@
 		<h1 id="titulo">Emily Tang's Projects</h1>
 		<ul id="pbar">
 			<li><p class="plist">p2</p><a href = "http://p2.emilytang.me">view</a> // <a href = "https://github.com/emitang/p2">github</a></li><br>
-			<li><p class="plist">p3</p><a href = "/">view</a> // <a href = "/">github</a></li><br>
+			<li><p class="plist">p3</p><a href = "http://p3.emilytang.me">view</a> // <a href = "https://github.com/emitang/p3">github</a></li><br>
 			<li><p class="plist">p4</p><a href = "/">view</a> // <a href = "/">github</a></li><br>
 		</ul>
 	</div>
